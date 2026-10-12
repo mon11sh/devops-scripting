@@ -1,0 +1,12 @@
+F:\scripting\devops-scripting\Calculator\bin\Debug\net10.0\Calculator.deps.json
+F:\scripting\devops-scripting\Calculator\bin\Debug\net10.0\Calculator.dll
+F:\scripting\devops-scripting\Calculator\bin\Debug\net10.0\Calculator.pdb
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.dll
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\Calculator.pdb
+F:\scripting\devops-scripting\Calculator\obj\Debug\net10.0\ref\Calculator.dll
